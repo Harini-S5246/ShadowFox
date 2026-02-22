@@ -1,0 +1,17 @@
+============================================================
+SALES DATA ANALYSIS EXECUTIVE SUMMARY
+============================================================
+
+Analysis Period: 2022-01-01 00:00:00 to 2024-12-31 00:00:00
+Total Transactions: 1,096
+
+KEY METRICS:
+- Total Gross Sales: $5,534,009.35
+- Total Net Sales: $2,992,378.12
+- Total Profit: $2,229,888.89
+- Average Profit Margin: 31.83%
+
+RECOMMENDATIONS:
+1. Focus on reducing freight costs as they show negative impact
+2. Increase marketing during peak months
+3. Analyze manufacturing efficiency in best fiscal year
